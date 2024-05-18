@@ -23,6 +23,14 @@ Specially made for *KiriXen's Studio*
 [![Join our Discord server!](https://invidget.switchblade.xyz/BgTWqFnEss)](https://discord.gg/BgTWqFnEss)
 <hr/>
 
+## Edit the environments
+
+rename `.env.example` to `.env`
+
+```
+TOKEN=Paste ur bot token here
+```
+
 ## Setting up Arona
 
 You need to have [node.js](https://nodejs.org). In order for music playback to work, you will need ffmpeg to be installed on your pc for following the intructions
