@@ -1,5 +1,4 @@
 <p align="center">
-<img src="https://cdn.discordapp.com/attachments/917705703215472660/1241317586843603015/image.png?ex=6649c297&is=66487117&hm=9554dd4868af8f844ad3cd4ee76e47d42deeb7c7fadfb00ae6ab7b049fcbc909&" alt="Bot" width="200" />
 <img src="https://github.com/KirixenYT/arona/assets/92567044/a12a98d6-eb9e-4f15-b08a-801845131d01" alt="bot" width="400" />
 <img src="https://github.com/KirixenYT/Gogoanime/assets/92567044/2f48b039-5b4e-4193-a6bb-e040774210a3" alt="bot" width="400" />
 </p>
@@ -10,15 +9,19 @@ Specially made for *KiriXen's Studio*
 
 ## Features
 
-- [x] Music commands
+- [x] Music commands (broken one not recommended)
 - [x] Fun commands
-- [x] other more etc...
+- [x] Admin commands
+- [x] Owner commands
+- [x] Using json for storing codes
 
-## Features
+## Todo
 
 - [ ] Add new commands
 - [ ] Connect Mongodb
-- [ ] New changes to the `view source code`
+- [ ] Migrate Arona to v2
+- [ ] Change `view source` to using ai for the codes
+- [ ] Create a website for it
 
 [![Join our Discord server!](https://invidget.switchblade.xyz/BgTWqFnEss)](https://discord.gg/BgTWqFnEss)
 <hr/>
